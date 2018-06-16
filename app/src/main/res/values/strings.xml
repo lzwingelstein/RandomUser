@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RandomUserApp</string>
+
+    <string name="title_list_activity">RandomUserApp</string>
+
+    <string name="transition_img">image</string>
+    <string name="transition_name">name</string>
+    <string name="transition_container">container</string>
+
+    <string name="fake_text_firstname">Dark Vador</string>
+    <string name="fake_text_email"> dark.vador@gmail.com</string>
+
+    <string name="error_no_extra_found">Error Retrieving User Detail</string>
+
+    <string name="network_issue">Waiting For Network</string>
+
+</resources>
